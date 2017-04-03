@@ -1,0 +1,34 @@
+How to Use Git and Github
+Version control
+Lesson 1
+Reflections
+The use of diff allowed for vastly easier viewing of errors.
+In extensive code, being able to pin down what changed is vitally helpful.
+It also avoids the problem that the code error may be in a different spot than the effect appears.
+i.e., a typo in one section might not throw an error until a different section,
+but spotting this through code changes will find the change, not the spot that throws an error.
+Way better.
+Having access to the entire history of a file would definitely improve efficiency.
+There is the error-fixing described above, but also it would help for other things.
+You could revert features to an older version entirely by looking up past versions.
+I think manually choosing when to establish a commit is probably a far better option than the alternatives.
+The only downside is user error: if a user doesn't commit, it's no good.
+However any practical alternative we discussed or I can think of has other problems:
+Automatic saving would result in commits happening at irregular intervals, with unfinished code.
+With manual commits, people have to pay more attention to their changes and tracking them,
+though it does require more work than something automated.
+Still, it's work that saves time, not useless expenditure of effort.
+The problems aren't nearly as big of problems in google docs as they are for code.
+Although automatic commits might be a little hairy in editing, even in a text document.
+Under different circumstances it would definitely be more useful to track commits in files individually or not.
+Some code has multiple files which need to change in unison, and separate commits would be annoying.
+But some documents or code has files which all change independently, making joint commits unnecessary.
+git log allows for the viewing of all commits in the git's history, which is very convenient.
+By adding the addition command --stat you can get a lot of additional data.
+git diff allows you to specifically view the changes between the two cited commits.
+By being able to revert back to previous versions, broken code is much less dangerous.
+If you do make a significant error which extends through many parts of code,
+you can undo all of it without problems.
+Ooh this didn't save when I ended the code in the command line.  That's rough.
+Linux is not as forgiving a medium as the other, more consumer-driven OS's in that regard.
+
