@@ -9,4 +9,7 @@ This initialization only requires the command git init to execute.
 If you don't initiate, then nothing is ever told to make a repository!
 The stating area is a way to move exactly what you want into your repository.
 It's useful, as it allows for a commit to be more properly prepared before submission.
-
+Staging area can help ensure that you only have one commit per logical change,
+Even if you are working on multiple details at once, at least in different files.
+You can use the staging area to prepare your commit,
+and then the commands git diff and more important git diff --staged to compare.
