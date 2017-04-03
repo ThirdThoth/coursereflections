@@ -13,3 +13,7 @@ Staging area can help ensure that you only have one commit per logical change,
 Even if you are working on multiple details at once, at least in different files.
 You can use the staging area to prepare your commit,
 and then the commands git diff and more important git diff --staged to compare.
+Branches could be helpful for a lot of functions, it seems to me.
+In particular, creating sub-versions of a project which may diverge.
+It could also be good for keeping an official version running,
+Even while a trial public test version is being updated in a separate branch.
