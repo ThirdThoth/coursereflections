@@ -1,0 +1,12 @@
+Lesson 2
+Udacity How to Use Git and GitHub
+Reflections
+
+Initializing a repository creates a preliminary .git folder,
+this indicates that this location is now a repository.
+This initialization does not create a first commit: there are no commits yet.
+This initialization only requires the command git init to execute.
+If you don't initiate, then nothing is ever told to make a repository!
+The stating area is a way to move exactly what you want into your repository.
+It's useful, as it allows for a commit to be more properly prepared before submission.
+
