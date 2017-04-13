@@ -17,3 +17,7 @@ Branches could be helpful for a lot of functions, it seems to me.
 In particular, creating sub-versions of a project which may diverge.
 It could also be good for keeping an official version running,
 Even while a trial public test version is being updated in a separate branch.
+A new question is how do diagrams help you visualize the branch structure?
+I suppose the answer is very blunt: they let you visualize branch structure.  You know.
+By presenting visuals of it.  It makes it very clear how branches work.
+This is definitely a good example of a case where diagrams are a very useful tool.
