@@ -24,4 +24,8 @@ This is definitely a good example of a case where diagrams are a very useful too
 Merging two branches together allows for the combination of two sets of code.
 But man I bet it's nigh impossible to do without conflicts, I don't understand
 how it could possibly work in more complicated code?  Maybe they will discuss it.
-
+Automatic merging in git is much more efficient, but much more risky.
+It may be very difficult to combine two separate collections of code,
+or even worse, introduce errors that might go unnoticed.  Perhaps that is just an
+inevitability that we must get used to, and the reason debugging is a constant in coding.
+Doing merges manually however could be a nearly infeasible task for large programs.
