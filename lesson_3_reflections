@@ -1,3 +1,7 @@
 Using Git and Github
 Lesson 3
 Reflections
+
+Remote repositories have the potential to be extremely useful in the basic context of cloud computing.
+They allow for files to be shared over multiple computers through the internet as a medium,
+as well as allowing multiple individuals to share access and editing controls into a single repository.
