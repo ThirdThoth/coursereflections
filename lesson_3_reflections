@@ -10,4 +10,12 @@ I'm not really sure what the big risk is here.  I suppose theoretically, there m
 with the online version, and it is safer to only pull manually, or the online master might be 
 halfway through a set of edits, while you are working on a separate project.  But wouldn't your
 separate project be best to do on a branch?
+This is great.  I love git and github.  Seriously.
+So branches are used to create multiple paths within a single repository, be it git or github.
+This allows for multiple sets of edits or versions of the project to be edited simultaneously.
+Cloning allows a complete copy of a repository, good for transition from github to local.
+It can also be used to copy, backup, share, whatever.
+Forking is for sharing between creators, entirely on github, of entire repositories.
+It allows the copying of a github repository over into a different user's account,
+and comes with useful tracking too.
 
