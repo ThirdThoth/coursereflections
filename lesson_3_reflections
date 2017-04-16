@@ -18,4 +18,6 @@ It can also be used to copy, backup, share, whatever.
 Forking is for sharing between creators, entirely on github, of entire repositories.
 It allows the copying of a github repository over into a different user's account,
 and comes with useful tracking too.
-
+By having a last-known-state copy of the remote, it becomes much easier to track changes.
+It lets you observe differences between the local and the remote,
+and it allows for manual merging as desired.
