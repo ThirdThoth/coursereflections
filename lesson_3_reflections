@@ -5,3 +5,9 @@ Reflections
 Remote repositories have the potential to be extremely useful in the basic context of cloud computing.
 They allow for files to be shared over multiple computers through the internet as a medium,
 as well as allowing multiple individuals to share access and editing controls into a single repository.
+It is potentially risky to pull changes automatically, for similar risks as automatic commits.
+I'm not really sure what the big risk is here.  I suppose theoretically, there might be problems
+with the online version, and it is safer to only pull manually, or the online master might be 
+halfway through a set of edits, while you are working on a separate project.  But wouldn't your
+separate project be best to do on a branch?
+
