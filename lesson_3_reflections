@@ -21,3 +21,7 @@ and comes with useful tracking too.
 By having a last-known-state copy of the remote, it becomes much easier to track changes.
 It lets you observe differences between the local and the remote,
 and it allows for manual merging as desired.
+Collaborating is much easier with Git and GitHub.  Without them, I would collaborate over
+google docs (which does have some of its own version control) but that is for word processing
+and would be a horrible mess to use for programming.  Even more likely, I would probably
+collaborate using something like dropbox.  What a travesty.
