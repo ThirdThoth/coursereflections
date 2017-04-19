@@ -25,3 +25,11 @@ Collaborating is much easier with Git and GitHub.  Without them, I would collabo
 google docs (which does have some of its own version control) but that is for word processing
 and would be a horrible mess to use for programming.  Even more likely, I would probably
 collaborate using something like dropbox.  What a travesty.
+Generally you would want to work in separate branches and go through the more lengthy 
+combining process under two circumstances:
+1. You are working with a lot of other people, or in general the project doesn't belong
+solely to you.
+2. You are working on a very separate change, that runs the risk of breaking master.
+In these circumstances, it's best to have a much longer, delayed method to merge into master.
+To make sure that everything is working as intended and no other work will fail by accident.
+
